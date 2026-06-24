@@ -1,5 +1,4 @@
 # metodos_cuantitativos_portafolio_inversion-
-# Proyecto Portafolios CVXPY
 
 Este proyecto implementa un sistema de optimización de portafolios utilizando programación cuadrática con CVXPY. El sistema permite descargar datos financieros, calcular métricas de riesgo y retorno, y construir la frontera eficiente para un conjunto de activos.
 
